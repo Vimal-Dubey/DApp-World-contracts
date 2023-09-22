@@ -1,3 +1,3 @@
 # DApp-World-contracts
 
-Here, I will be share the solutions for DApp-world challenges.
+Here, I will be sharing the solutions for DApp-world challenges.
